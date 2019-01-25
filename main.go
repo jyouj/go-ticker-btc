@@ -35,5 +35,5 @@ func main() {
       fmt.Println("JSON Unmarshal error:", err)
       return
     }
-    fmt.Println(data.ProductCode)
+    fmt.Println(data.Ltp)
 }
