@@ -1,5 +1,5 @@
 # go-ticker-btc
-bitFlyer APIからBTCの最終取引価格を取り出す
+Let's report the final transaction price of BTC from bitFlyer API.
 
 ## Install
 ```
